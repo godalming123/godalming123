@@ -2,7 +2,7 @@
 
 _**about**_
 
-I'm a web designer devolper and coder.
+I'm a web designer, devolper and coder.
 
 _**whats happaning**_
 
