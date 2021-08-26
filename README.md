@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-_**about**_
+## about
 
-I'm a web designer, devolper and coder.
+I’m a web devoloper designer and coder. Hoping to get A job in jekyll static site devolopment in fact this whole site is built with jekyll! I have helped devolop the dark theme poworing this site (the theme only applies if your device is in dark mode) it is a fork of minimal which is a theme for jekyll and github pages the platform this site is hosted on. I have also devoloped a fork of the cayman theme that adds dark mode support.
 
-_**whats happaning**_
+## whats happaning
 
-🔭 I’m currently working on ... A fork for https://github.com/pages-themes/minimal to add dark mode the forked repo is https://github.com/godalming123/minimal and you can try it out by turning dark mode on on your device and visiting https://godalming123.github.io/minimal/ !
+### 🔭 I’m currently working on ...
+a blog site using jekyll just visit https://godalming123.github.io/
 
-🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/) a static site generator so could you could genarater made with markdown a blog site then have one site and no databse to serve blogs.
+### 👯 I’m looking to collaborate on ...
+A fork for https://github.com/pages-themes/minimal to add dark mode the forked repo is https://github.com/godalming123/minimal and you can try it out by turning    dark mode on on your device and visiting https://godalming123.github.io/minimal/ !
+
+### 🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/) a static site generator so could you could genarater made with markdown a blog site then have one site and no databse to serve blogs.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1989Ryan&layout=compact&show_icons=true)
