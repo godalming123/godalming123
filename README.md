@@ -1,12 +1,12 @@
-# Hi there 👋
+# 👋 Hi there
 
-## About
+## ❔ About
 I’m a web devoloper designer and coder. Hoping to get A job in [jekyll](https://jekyllrb.com) static site devolopment. I have devoloped a fork of the [cayman](https://github.com/pages-themes/cayman) and [minimal](https://github.com/pages-themes/minimal) theme that adds dark mode support.
 
 ## 📫 How to reach me: ...
 You can contact me on [email](mailto:r2hk9ahnf@relay.firefox.com)
 
-## Whats happaning
+## 📰 Whats happaning
 
 ### 🔭 I’m currently working on ...
 A blog site using [jekyll](https://jekyllrb.com) just visit [godalming123.github.io/blog/](godalming123.github.io/blog/)
@@ -17,7 +17,7 @@ A fork for the [minimal github pages theme](https://github.com/pages-themes/mini
 ### 🌱 I’m currently learning [jekyll](https://jekyllrb.com/)
 [Jekyll](https://jekyllrb.com) a static site generator.
 
-## Why employ me?
+## 👔 Why employ me?
  - **I like to collaborate.**
    I have made several forks to repository’s to improve them including:
     - adding dark mode to:
