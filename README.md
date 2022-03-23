@@ -1,18 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-## about
+## About
+I’m a web devoloper designer and coder. Hoping to get A job in [jekyll](https://jekyllrb.com) static site devolopment. I have devoloped a fork of the [cayman](https://github.com/pages-themes/cayman) and [minimal](https://github.com/pages-themes/minimal) theme that adds dark mode support.
 
-I’m a web devoloper designer and coder. Hoping to get A job in jekyll static site devolopment in fact this whole site is built with jekyll! I have helped devolop the dark theme poworing this site (the theme only applies if your device is in dark mode) it is a fork of minimal which is a theme for jekyll and github pages the platform this site is hosted on. I have also devoloped a fork of the cayman theme that adds dark mode support.
+## 📫 How to reach me: ...
+You can contact me on [email](mailto:r2hk9ahnf@relay.firefox.com)
 
-## whats happaning
+## Whats happaning
 
 ### 🔭 I’m currently working on ...
-a blog site using jekyll just visit https://godalming123.github.io/
+A blog site using [jekyll](https://jekyllrb.com) just visit [godalming123.github.io/blog/](godalming123.github.io/blog/)
 
 ### 👯 I’m looking to collaborate on ...
-A fork for https://github.com/pages-themes/minimal to add dark mode the forked repo is https://github.com/godalming123/minimal and you can try it out by turning    dark mode on on your device and visiting https://godalming123.github.io/minimal/ !
+A fork for the [minimal github pages theme](https://github.com/pages-themes/minimal) to add dark mode the forked repo is [here](https://github.com/godalming123/minimal) and you can try it out by turning on dark mode on on your device and visiting [here](https://godalming123.github.io/minimal/)!
 
-### 🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/) a static site generator so could you could genarater made with markdown a blog site then have one site and no databse to serve blogs.
+### 🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/)
+[Jekyll](https://jekyllrb.com) a static site generator.
+
+## Why employ me?
+ - I like to collaborate
+   I have made several forks to repository’s to improve them including:
+    - adding dark mode to:
+       - minimal jekyll theme see my PR
+       - cayman jekyll theme see my PR
+    - I added a missing feature (selecting the AUR helper) in ArchTitus see my PR and my bug fix PR
+    - I added a page for dm-tool in tldr see my PR
+    - I love to code
+      I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true&theme=cobalt)
