@@ -14,8 +14,8 @@ A fork for https://github.com/pages-themes/minimal to add dark mode the forked r
 
 ### 🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/) a static site generator so could you could genarater made with markdown a blog site then have one site and no databse to serve blogs.
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true&theme=cobalt)
 <!--
 **godalming123/godalming123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
