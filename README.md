@@ -14,7 +14,7 @@ A blog site using [jekyll](https://jekyllrb.com) just visit [godalming123.github
 ### 👯 I’m looking to collaborate on ...
 A fork for the [minimal github pages theme](https://github.com/pages-themes/minimal) to add dark mode the forked repo is [here](https://github.com/godalming123/minimal) and you can try it out by turning on dark mode on on your device and visiting [here](https://godalming123.github.io/minimal/)!
 
-### 🌱 I’m currently learning ... [jekyll](https://jekyllrb.com/)
+### 🌱 I’m currently learning [jekyll](https://jekyllrb.com/)
 [Jekyll](https://jekyllrb.com) a static site generator.
 
 ## Why employ me?
