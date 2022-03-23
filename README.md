@@ -18,15 +18,15 @@ A fork for the [minimal github pages theme](https://github.com/pages-themes/mini
 [Jekyll](https://jekyllrb.com) a static site generator.
 
 ## Why employ me?
- - I like to collaborate
+ - **I like to collaborate.**
    I have made several forks to repository’s to improve them including:
     - adding dark mode to:
        - minimal jekyll theme see my PR
        - cayman jekyll theme see my PR
     - I added a missing feature (selecting the AUR helper) in ArchTitus see my PR and my bug fix PR
     - I added a page for dm-tool in tldr see my PR
-    - I love to code
-      I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
+ - **I love to code.**
+   I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true&theme=cobalt)
