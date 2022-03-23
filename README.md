@@ -21,10 +21,10 @@ A fork for the [minimal github pages theme](https://github.com/pages-themes/mini
  - **I like to collaborate.**
    I have made several forks to repository’s to improve them including:
     - adding dark mode to:
-       - minimal jekyll theme see my PR
-       - cayman jekyll theme see my PR
-    - I added a missing feature (selecting the AUR helper) in ArchTitus see my PR and my bug fix PR
-    - I added a page for dm-tool in tldr see my PR
+       - [minimal jekyll theme](https://github.com/pages-themes/minimal) see [my PR](https://github.com/pages-themes/minimal/pull/121)
+       - [cayman jekyll theme](https://github.com/pages-themes/cayman) see [my PR](https://github.com/pages-themes/cayman/pull/135)
+    - I added a missing feature (selecting the AUR helper) in [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) see [my PR](https://github.com/ChrisTitusTech/ArchTitus/pull/189) and [my bug fix PR](https://github.com/ChrisTitusTech/ArchTitus/pull/222)
+    - I added a page for dm-tool in [tldr pages](https://github.com/tldr-pages/tldr) see [my PR](https://github.com/tldr-pages/tldr/pull/7710)
  - **I love to code.**
    I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
 
