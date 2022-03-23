@@ -3,7 +3,7 @@
 ## ❔ About
 I’m a web devoloper designer and coder. Hoping to get A job in [jekyll](https://jekyllrb.com) static site devolopment. I have devoloped a fork of the [cayman](https://github.com/pages-themes/cayman) and [minimal](https://github.com/pages-themes/minimal) theme that adds dark mode support.
 
-## 📫 How to reach me: ...
+## 📫 How to reach me...
 You can contact me on [email](mailto:r2hk9ahnf@relay.firefox.com)
 
 ## 📰 Whats happaning
