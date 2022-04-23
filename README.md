@@ -25,8 +25,11 @@ A fork for the [minimal github pages theme](https://github.com/pages-themes/mini
        - [cayman jekyll theme](https://github.com/pages-themes/cayman) see [my PR](https://github.com/pages-themes/cayman/pull/135)
     - I added a missing feature (selecting the AUR helper) in [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) see [my PR](https://github.com/ChrisTitusTech/ArchTitus/pull/189) and [my bug fix PR](https://github.com/ChrisTitusTech/ArchTitus/pull/222)
     - I added a page for dm-tool in [tldr pages](https://github.com/tldr-pages/tldr) see [my PR](https://github.com/tldr-pages/tldr/pull/7710)
+ - **I have made several projects including:**
+   - [My Blog](https://godalming123.github.io/blog/)
  - **I love to code.**
    I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
+ 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true&theme=cobalt)
