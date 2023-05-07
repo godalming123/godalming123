@@ -20,7 +20,7 @@ I've made several PR's while on github including (in order from newest to oldest
  - I added the ability to select the AUR helper in [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - [my PR](https://github.com/ChrisTitusTech/ArchTitus/pull/189) and [my bug fix PR](https://github.com/ChrisTitusTech/ArchTitus/pull/222)
  - Improving the readme on [worm](https://github.com/codic12/worm) - https://github.com/codic12/worm/pull/35
  - Adding dark theme to [the minimal jekyll theme](https://github.com/pages-themes/minimal) - https://github.com/pages-themes/minimal/pull/121
- - Adding dark theme to [the cayman jekyll theme](https://github.com/pages-themes/cayman) - (https://github.com/pages-themes/cayman/pull/135
+ - Adding dark theme to [the cayman jekyll theme](https://github.com/pages-themes/cayman) - https://github.com/pages-themes/cayman/pull/135
 
 ### 🌱 I’m currently learning C with wlroots
 Building my wayland compositor is teaching me C, although I am considering re-writing it in a typesafe language.
