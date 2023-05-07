@@ -31,7 +31,7 @@ Building my wayland compositor is teaching me C, although I am considering re-wr
  - **I have made several projects including:**
      - My simple wayland compositor as mentioned above
      - A bar written in python for hyprland - https://github.com/godalming123/hyprland-panel
-     - Some bery simple, terminal based, 2D graphics - https://github.com/godalming123/cpp-console-engine
+     - Some very simple, terminal based, 2D graphics - https://github.com/godalming123/cpp-console-engine
  - **I love to code.**
      - I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
  
