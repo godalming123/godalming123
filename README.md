@@ -1,40 +1,51 @@
 # 👋 Hi there
 
 ## ❔ About
-I’m a linux user and web developer, I will happily contribute to programs if there's something I want them to have that I need to use and also happily create new projects if I don't feel the existing ones fit.
+
+I’m a developer who has been gradually learning lower level technologies; starting with python and web dev, creating a wayland compositor and algebraic calculater, and currently working on compilers and optimizing backends. I'm eager to contribute to existing open source projects, but also happily create new open source projects if, in my opinion, the existing ones don't fit what I want. My success is in part thanks to linux, as it always allowed me to go down 1 layer of abstraction which lead me to create some of the projects that I learned the most from including my wayland compositor, programming language, and optimizing backend.
 
 ## 📫 How to reach me...
+
 You can contact me on [email](mailto:r2hk9ahnf@relay.firefox.com).
 
 ## 📰 Whats happaning
 
-### 🔭 I’m currently working on ...
-A simple wayland compositor that uses wlroots see https://github.com/godalming123/tinytile.
+### 🔭 I’m currently working on...
 
-### 🤝 I’m looking to collaborate on ...
+A programming language called common assembly. Check it out [here](https://github.com/godalming123/common-assembly).
+
+### 🤝 I’m looking to collaborate on...
+
 I've made several PR's while on github including (in order from newest to oldest):
-- Add a way to only show the horizontal or vertical position in statusline in [helix](https://github.com/helix-editor/helix) - https://github.com/helix-editor/helix/pull/10883
-- Add a description of how to test a package to [lure](https://github.com/Elara6331/lure) - https://github.com/Elara6331/lure/pull/72
-- Adding the listrepo command to [lure](https://github.com/Elara6331/lure) - https://github.com/Elara6331/lure/pull/73
-- I did a minor fix and updated discord in the [lure-repo](https://github.com/Elara6331/lure-repo) - https://github.com/Elara6331/lure-repo/pull/46
-- I added a page for dm-tool in [tldr pages](https://github.com/tldr-pages/tldr) - [my PR](https://github.com/tldr-pages/tldr/pull/7710)
-- I added the ability to select the AUR helper in [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - [my PR](https://github.com/ChrisTitusTech/ArchTitus/pull/189) and [my bug fix PR](https://github.com/ChrisTitusTech/ArchTitus/pull/222)
-- Improving the readme on [worm](https://github.com/codic12/worm) - https://github.com/codic12/worm/pull/35
-- Adding dark theme to [the minimal jekyll theme](https://github.com/pages-themes/minimal) - https://github.com/pages-themes/minimal/pull/121
-- Adding dark theme to [the cayman jekyll theme](https://github.com/pages-themes/cayman) - https://github.com/pages-themes/cayman/pull/135
 
-### 🌱 I’m currently learning C with wlroots
-Building my wayland compositor is teaching me C, although I am considering re-writing it in a typesafe language.
+| Date       | Project                                                                             | What the PR does                                                             | Where to find the PR                                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17/05/2025 | [The MuseScore music composition software](https://github.com/musescore/MuseScore/) | Fix #11325 and refactor score movement handling code                         | [original PR](https://github.com/musescore/MuseScore/pull/28072), [squashed and rebased PR](https://github.com/musescore/MuseScore/pull/28138) |
+| 04/06/2024 | [The helix text editor](https://github.com/helix-editor/helix)                      | Add a way to only show the horizontal or vertical position in the statusline | [here](https://github.com/helix-editor/helix/pull/10883)                                                                                       |
+| 29/04/2023 | [The lure package manager](https://github.com/Elara6331/lure)                       | Add a `listrepo` command                                                     | [here](https://github.com/Elara6331/lure/pull/73)                                                                                              |
+| 28/04/2023 | [The lure package manager](https://github.com/Elara6331/lure)                       | Add a description of how to test a package                                   | [here](https://github.com/Elara6331/lure/pull/72)                                                                                              |
+| 28/04/2023 | [The lure packages repository](https://github.com/Elara6331/lure-repo)              | Fix and update the discord package                                           | [here](https://github.com/Elara6331/lure-repo/pull/46)                                                                                         |
+| 25/01/2022 | [The tldr pages terminal command cheatsheats](https://github.com/tldr-pages/tldr)   | Add a page for `dm-tool`                                                     | [here](https://github.com/tldr-pages/tldr/pull/7710)                                                                                           |
+| 16/01/2022 | [The ArchTitus arch linux installer](https://github.com/ChrisTitusTech/ArchTitus)   | Add an option to select the AUR helper                                       | [original PR](https://github.com/ChrisTitusTech/ArchTitus/pull/189), [bug fix PR](https://github.com/ChrisTitusTech/ArchTitus/pull/222)        |
+| 28/12/2021 | [The worm X11 window manager](https://github.com/codic12/worm)                      | Improve the readme                                                           | [here](https://github.com/codic12/worm/pull/35)                                                                                                |
+| 18/08/2021 | [The minimal jekyll theme](https://github.com/pages-themes/minimal)                 | Add dark theme                                                               | [here](https://github.com/pages-themes/minimal/pull/121)                                                                                       |
+| 18/08/2021 | [The cayman jekyll theme](https://github.com/pages-themes/cayman)                   | Add dark theme                                                               | [here](https://github.com/pages-themes/cayman/pull/135)                                                                                        |
+
+### 🌱 I’m currently learning compiler and optimizer design
+
+Building my programming language is teaching me this.
 
 ## 👔 Why employ me?
+
 - **I like to collaborate.**
-  - As you can see from my above PR's I have made several collaborations on variues projects
-- **I have made several projects including:**
-  - My simple wayland compositor as mentioned above
-  - A bar written in python for hyprland - https://github.com/godalming123/hyprland-panel
-  - Some very simple, terminal based, 2D graphics - https://github.com/godalming123/cpp-console-engine
+  - As you can see from my above PR's I have made several collaborations on various projects
+- **I have made several projects, including:**
+  - My low level programming language - [common assembly](https://github.com/godalming123/common-assembly)
+  - My simple wayland compositor - [tinytile](https://github.com/godalming123/tinytile)
+  - A bar written in python for hyprland - [hyprland-panel](https://github.com/godalming123/hyprland-panel)
+  - Some very simple, terminal based, 2D graphics - [cpp-console-engine](https://github.com/godalming123/cpp-console-engine)
 - **I love to code.**
-  - I am almost always coding in my free time and genunely enjoy it as you can see in my github stats below.
+  - I am almost always coding in my free time and genuinely enjoy it.
  
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=godalming123&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godalming123&layout=compact&show_icons=true&theme=cobalt)
