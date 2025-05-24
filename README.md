@@ -2,7 +2,7 @@
 
 ## ❔ About
 
-I’m a developer who has been gradually learning lower level technologies; starting with python and web dev, creating a wayland compositor and algebraic calculater, and currently working on compilers and optimizing backends. I'm eager to contribute to existing open source projects, but also happily create new open source projects if, in my opinion, the existing ones don't fit what I want. My success is in part thanks to linux, as it always allowed me to go down 1 layer of abstraction which lead me to create some of the projects that I learned the most from including my wayland compositor, programming language, and optimizing backend.
+I’m a developer who has been gradually learning lower level technologies; starting with python and web dev, creating a wayland compositor and algebraic calculater, and currently working on compilers and optimizing backends. I'm eager to contribute to existing open source projects, but also happily create new open source projects if, in my opinion, the existing ones don't fit what I want. My success is in part thanks to linux, as it always encourages me to go down 1 layer of abstraction which lead me to create some of the projects that I learned the most from including my wayland compositor, programming language, and optimizing backend.
 
 ## 📫 How to reach me...
 
